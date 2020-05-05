@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <script src="https://kit.fontawesome.com/a42abe6d42.js" crossorigin="anonymous"></script>
   <meta http-equiv="refresh" content="400">
   <title>Corona Updates</title>
   <?php include 'links.php'; ?>
@@ -66,7 +67,7 @@ $statescount = count($coranalive['statewise']);
         <a class="nav-link" href="#dailyid">Daily</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu&hl=en_IN" target="_blank">Download App</a>
+        <a class="nav-link" href="https://github.com/vineet9798/corona-.git" target="_blank"><i class="fab fa-github"></i> Contribute</a>
       </li>
     </ul>
   </div>
